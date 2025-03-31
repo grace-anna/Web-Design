@@ -1,0 +1,87 @@
+<html>
+<head>
+<title>My Resume</title>
+<style>
+  body {
+    font-family: Arial;
+    margin: 20px;
+    background-color: #f4f4f4;
+    color: #333;
+    line-height: 1.6;
+  }
+  h1 {
+    color: #0078d4;
+    text-align: center;
+    font-size: 2.5em;
+    margin-bottom: 5px;
+  }
+  h2 {
+    color: #2c3e50;
+    border-bottom: 2px solid #ddd;
+    padding-bottom: 5px;
+  }
+  a {
+    color: #0078d4;
+    text-decoration: none;
+  }
+  a:hover {
+    text-decoration: underline;
+    color: #005a9e;  }
+  ul {
+    list-style-type: disc;
+    padding-left: 20px;
+  }
+</style>
+</head>
+<body>
+
+<h1 align="center" style="color: blue; font-size: 2.5em;">Resume</h1>
+
+<p align="center" style="font-size: 0.9em; color: gray;">
+  Email: graceannavarghese@gmail.com | 
+  Phone: 9967-456-7890 | 
+  <a href="https://www.linkedin.com/in/example" style="color: blue;">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/example" style="color: blue;">GitHub</a>
+  <a href="https://www.linkedin.com/in/example" style="color: blue;">Instagram</a>
+</p>
+
+<hr>
+
+<p>Name: <b>Grace Anna Varghese</b></p>
+<p>Highly motivated and adaptable individual with a strong desire to learn and contribute. Possesses a solid foundation in Data Analytics. Eager to gain practical experience and develop professional skills in a dynamic environment. Quick learner and committed to continuous improvement.</p>
+
+<hr>
+
+<h2>Skills</h2>
+<ul>
+  <li>HTML, CSS, JavaScript</li>
+  <li>Python</li>
+  <li>SQL</li>
+  <li>Data Analysis</li>
+  <li>Project Management</li>
+</ul>
+
+<hr>
+
+<h2>Education</h2>
+<p><strong>Bachelor of Science in Computer Science</strong><br>Amal Jyothi College of Engineering, Kanjirappally<br>Graduated: May 2028</p>
+
+<hr>
+
+<h2>Projects</h2>
+<p>
+    <b>Personal Website Project:</b><br>
+    Created a personal website using HTML, CSS, and JavaScript to showcase skills and projects.
+</p>
+
+<p>
+    <b>Data Analysis Project:</b><br>
+    Analyzed a dataset using Python and SQL to extract meaningful insights and create visualizations.
+</p>
+
+<p>
+    <b></b>
+</p>
+
+</body>
+</html>
