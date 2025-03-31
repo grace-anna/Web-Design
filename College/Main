@@ -1,0 +1,30 @@
+
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+    <title>Amal Jyothi Engineering College</title>
+
+</head>
+<body>
+<center>
+    <img src="https://www.ajce.in/300x300png.png" height="150" width="150">
+    <h1>Amal Jyothi College of Engineering Autonomous</h1>
+ <h4>KERALA'S LARGEST INFRASTRUCTURE FOR ENGINEERING EDUCATION WITH 7 NBA ACCREDITED PROGRAMS</h4><br>
+ <h3>Departments</h3>
+
+
+    <div align="left" style="display:inline-block;">
+        <ul>
+            <li><a href="civil.html">Civil Engineering</a></li>
+            <li><a href="now.html">Mechanical Engineering</a></li>
+            <li><a href="electrical_engineering.html">Electrical & Electronics Engineering</a></li>
+            <li><a href="cs.html">Computer Science & Engineering</a></li>
+            <li><a href="ece.html">Electronics & Communication Engineering</a></li>
+            <li><a href="information_technology.html">Information Technology</a></li>
+            <li><a href="ai_data_science.html">Artificial Intelligence & Data Science</a></li>
+        </ul>
+    </div>
+
+    </center>
+</body>
+</html>
